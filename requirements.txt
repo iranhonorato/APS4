@@ -1,0 +1,3 @@
+aigyminsper==0.2.3
+matplotlib
+uv 
